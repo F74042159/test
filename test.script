@@ -1,0 +1,29 @@
+Script started on 2016年03月14日 (週一) 14時04分02秒
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ whoami;pwd
+F74042159
+/home/F74042159
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ git config.[K -l
+user.name=F74042159
+user.email=vivienrses@yahoo.com.tw
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ git [K[K[K[Kls
+[0m[01;34mlab1[0m  test.script
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ git cline
+git: 'cline' is not a git command. See 'git --help'.
+
+Did you mean this?
+	clone
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ git clone https://github.com/F74042159/test.git
+Cloning into 'test'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ ls
+[0m[01;34mlab1[0m  [01;34mtest[0m  test.script
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ ^C
+]0;F74042159@2015cpp: ~F74042159@2015cpp:~$ exit
+
+Script done on 2016年03月14日 (週一) 14時05分08秒
